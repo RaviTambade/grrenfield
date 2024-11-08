@@ -1,0 +1,6 @@
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Penalty\bin\Debug\Penalty.dll
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Penalty\bin\Debug\Penalty.pdb
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Penalty\obj\Debug\Penalty.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Penalty\obj\Debug\Penalty.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Penalty\obj\Debug\Penalty.dll
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Penalty\obj\Debug\Penalty.pdb

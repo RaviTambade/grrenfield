@@ -1,0 +1,6 @@
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Taxation\bin\Debug\Taxation.dll
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Taxation\bin\Debug\Taxation.pdb
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Taxation\obj\Debug\Taxation.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Taxation\obj\Debug\Taxation.dll
+D:\Ravi\TAP\TAP\simpliyfyhealthcare\ECommerce\Taxation\obj\Debug\Taxation.pdb
